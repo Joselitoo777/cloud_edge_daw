@@ -39,13 +39,21 @@ Incluye un diagrama (ASCII/Mermaid/imagen) y una explicación breve.
 
 ### Diagrama
 flowchart LR
+
     A[Usuario / Browser] -->|HTTP(S) Request| B[Frontend (Web App)]
+    
     B -->|API Call| C[API / Backend Service]
+    
     C -->|Consulta/Actualiza| D[(Base de Datos)]
+    
     C -->|Guarda/Recupera archivos| E[Storage (S3 / Blob)]
+    
     D -->|Respuesta| C
+    
     E -->|Respuesta| C
+    
     C -->|Datos procesados| B
+    
     B -->|Renderiza| A
 
 
