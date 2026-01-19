@@ -57,6 +57,9 @@ flowchart LR
     B -->|Renderiza| A
 
 
+<img width="1024" height="1536" alt="ChatGPT Image 19 ene 2026, 12_33_00" src="https://github.com/user-attachments/assets/df9e8304-17d7-47c4-ab8c-409ab29851e9" />
+
+
 ### Explicación (8–12 líneas)
 El usuario interactúa con la aplicación web desde el navegador.
 
