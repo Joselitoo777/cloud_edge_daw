@@ -27,6 +27,7 @@ Mist Computing lleva el procesamiento directamente al dispositivo final, como se
 
 **Esquema (ASCII o Mermaid recomendado):**
 
+<img width="1024" height="1536" alt="ChatGPT Image 2 feb 2026, 12_24_33" src="https://github.com/user-attachments/assets/0502f419-fce9-4c3f-b6c2-0a847430478c" />
 
 
 **Zonas de aplicación (qué hace cada capa):**
@@ -72,4 +73,5 @@ Incluye mínimo 3 ventajas (recomendado 5), con explicación + ejemplo.
 - https://aws.amazon.com/what-is/edge-computing/  
 - https://www.cisco.com/c/en/us/solutions/internet-of-things/what-is-fog-computing.html  
 - https://cloud.google.com/learn/what-is-cloud-computing  
+
 
